@@ -1,5 +1,0 @@
-dfdf# robotstxt.org/
-
-User-agent: *
-
-blablblabla
